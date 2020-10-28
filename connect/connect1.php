@@ -1,4 +1,8 @@
 <?php
+
+// New task
+// Connect to database using the mysqli method 
+// by Sonawap for sidehustle
 $servername = "localhost"; //////////////local Serve
 $usern = "root"; ////////////// username
 $pword = ""; ////////////// password = null
