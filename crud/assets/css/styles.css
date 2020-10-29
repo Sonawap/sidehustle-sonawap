@@ -1,0 +1,14 @@
+body{
+  background:rgb(237,237,237);
+}
+
+div.container{
+  background:#fff;
+}
+
+.conn-wrap{
+  border:1px solid #f3f3f3;
+  padding:20px;
+  margin-bottom:30px;
+}
+
